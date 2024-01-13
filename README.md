@@ -1,1 +1,1 @@
-Deploy Link : https://ntnehathorat.github.io/F2-Contest-1/
+Deployed link : https://ntnehathorat.github.io/F2-Contest-1/
